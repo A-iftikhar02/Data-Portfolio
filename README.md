@@ -14,7 +14,7 @@ This portfolio showcases my end-to-end skills in data analysis, EDA, dashboards,
 | [Streamlit Expense Tracker](https://github.com/A-iftikhar02/streamlit-expense-tracker) | A personal finance tracker with login, budget planner, transaction logging, filters, and visual savings reports | Python, Streamlit, SQLite |
 | [Retail Sales & Returns Analysis](https://github.com/A-iftikhar02/Retail-Sales-Returns-Analysis) | An Excel + Power BI hybrid project analyzing how returns impact product sales and profitability | Excel, Power BI |
 | [Power BI Sales Dashboard](https://github.com/A-iftikhar02/PowerBI-Sales-Dashboard) | Sales and profit trends by category, region, and time — with interactive KPIs and slicers | Power BI |
-| [Retail Product Performance (Excel)](https://github.com/A-iftikhar02/Retail-Product-Performance-Analysis) | Excel dashboard to assess product-wise performance, sales, and category insights | Excel |
+| [Retail Product Performance ](https://github.com/A-iftikhar02/Retail-Product-Performance-Analysis) | Excel dashboard to assess product-wise performance, sales, and category insights | Python, Pandas |
 | [Sales Analysis EDA](https://github.com/A-iftikhar02/Sales-Analysis-EDA-Project) | Exploratory data analysis to identify revenue trends, top products, and monthly sales patterns | Python, Pandas, Matplotlib |
 | [Books EDA & Web Scraping](https://github.com/A-iftikhar02/books_eda_) | Scraped product listings from BooksToScrape.com to analyze prices, stock levels, and ratings | Python, Pandas, BeautifulSoup |
 | [Netflix EDA](https://github.com/A-iftikhar02/Netflix_EDA_Project) | Analyzed Netflix’s movie/TV dataset by genres, ratings, release years, and country-wise content | Python, Pandas, Seaborn |
