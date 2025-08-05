@@ -1,9 +1,9 @@
 # 👋 Abdullah Iftikhar – Data Analytics Portfolio
 
 🎓 Final-year BS Data Science student | Aspiring Data Analyst  
-📍 Passionate about data-driven decision making, dashboard creation, and solving real-world problems using Python, SQL, Excel, Power BI, and Streamlit.
+📍 Passionate about data storytelling, dashboard creation, and solving business problems using Python, SQL, Excel, Power BI, and Streamlit.
 
-This portfolio showcases my hands-on projects in data analytics, dashboards, web scraping, and full-stack Streamlit app development.
+This portfolio showcases my end-to-end skills in data analysis, EDA, dashboards, and app development through practical, hands-on projects.
 
 ---
 
@@ -11,44 +11,43 @@ This portfolio showcases my hands-on projects in data analytics, dashboards, web
 
 | Project | Description | Tools |
 |--------|-------------|--------|
-| [Streamlit Expense Tracker](https://github.com/A-iftikhar02/streamlit-expense-tracker) | A full-stack personal budgeting system with user login, transaction tracking, filtering, and auto-generated savings reports | Python, Streamlit, SQLite |
-| [Retail Product Performance Analysis](https://github.com/A-iftikhar02/Retail-Product-Performance-Analysis) | Excel dashboard to analyze product-wise sales, profits, and KPIs with slicers and conditional formatting | Excel |
-| [Customer Purchase Analysis – Power BI](https://github.com/A-iftikhar02/Customer-Purchase-Analysis-PowerBI) | Power BI dashboard highlighting customer purchases by category, region, and time with interactive filters and DAX measures | Power BI |
-| [Books EDA](https://github.com/A-iftikhar02/Books_EDA_) | Web scraping from BooksToScrape.com and analyzing pricing, ratings, stock, and category trends | Python, Pandas, BeautifulSoup |
-| [Sales Analysis EDA Project](https://github.com/A-iftikhar02/Sales-Analysis-EDA-Project) | Exploratory data analysis on retail sales dataset to find top-selling products, regions, and monthly patterns | Python, Pandas, Matplotlib |
-| [Retail SQL Analysis](https://github.com/A-iftikhar02/retail_sql_analysis) | Retail sales database queries covering aggregates, filters, JOINs, and case logic for insights | SQL, SQLite |
-| [Vercel App Deployment Test](https://github.com/A-iftikhar02/vercel-app-deployment) | A practice repo to test static app deployment using Vercel (non-analytics) | HTML, Hosting |
+| [Streamlit Expense Tracker](https://github.com/A-iftikhar02/streamlit-expense-tracker) | A personal finance tracker with login, budget planner, transaction logging, filters, and visual savings reports | Python, Streamlit, SQLite |
+| [Retail Sales & Returns Analysis](https://github.com/A-iftikhar02/Retail-Sales-Returns-Analysis) | An Excel + Power BI hybrid project analyzing how returns impact product sales and profitability | Excel, Power BI |
+| [Power BI Sales Dashboard](https://github.com/A-iftikhar02/PowerBI-Sales-Dashboard) | Sales and profit trends by category, region, and time — with interactive KPIs and slicers | Power BI |
+| [Retail Product Performance (Excel)](https://github.com/A-iftikhar02/Retail-Product-Performance-Analysis) | Excel dashboard to assess product-wise performance, sales, and category insights | Excel |
+| [Sales Analysis EDA](https://github.com/A-iftikhar02/Sales-Analysis-EDA-Project) | Exploratory data analysis to identify revenue trends, top products, and monthly sales patterns | Python, Pandas, Matplotlib |
+| [Books EDA & Web Scraping](https://github.com/A-iftikhar02/books_eda_) | Scraped product listings from BooksToScrape.com to analyze prices, stock levels, and ratings | Python, Pandas, BeautifulSoup |
+| [Netflix EDA](https://github.com/A-iftikhar02/Netflix_EDA_Project) | Analyzed Netflix’s movie/TV dataset by genres, ratings, release years, and country-wise content | Python, Pandas, Seaborn |
 
 ---
 
-## 🧠 Skills Covered
+## 🧠 Skills Demonstrated
 
-- Data Cleaning and Exploration (EDA)
-- Dashboard Design (Excel, Power BI, Streamlit)
-- SQL Querying and Database Management
-- Web Scraping and Automation
-- Full-Stack Python App Development (Streamlit + SQLite)
+- Data Cleaning and EDA
+- Dashboarding (Excel, Power BI, Streamlit)
+- SQL Querying and Joins
+- Web Scraping (BeautifulSoup)
+- App Development with Streamlit + SQLite
 - Git & GitHub for version control
 
 ---
 
 ## 📌 Why This Portfolio?
 
-This portfolio is crafted to show practical, project-based learning aligned with real-world business tasks.  
-It supports my goals to:
+This portfolio is built to reflect job-ready analytics skills across multiple tools and domains. It also supports my long-term goal to:
+
 - Apply for **Data Analyst roles**
-- Pursue a **Master’s in AI/ML abroad**
-- Build end-to-end skills from raw data to dashboards
+- Pursue a **Master’s in AI/ML** in countries like Finland, Sweden, UK, and Australia
+- Showcase growth through practical, project-based learning
 
 ---
 
 ## 📬 Contact
 
 - GitHub: [@A-iftikhar02](https://github.com/A-iftikhar02)
-- LinkedIn:https://www.linkedin.com/in/abdullah-iftikhar-a67986322/
+- LinkedIn: [linkedin.com/in/abdullah-iftikhar-a67986322](https://www.linkedin.com/in/abdullah-iftikhar-a67986322/)
 - Email: iftikharabdullah231@gmail.com
 
 ---
 
-> 💡 Tip: You can fork or clone these projects for learning purposes. Contributions and feedback are always welcome!
-
+> 💡 Feel free to explore, fork, or use these projects for learning purposes. Feedback and suggestions are welcome!
